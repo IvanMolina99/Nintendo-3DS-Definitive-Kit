@@ -12,7 +12,7 @@ Nintendo 3DS Definitive Kit es un script basado en GodMode9 que en una sencilla 
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div></div>
-[Clean&Update]
+[Clean&Update]</b>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">Un script que te permite modificar cualquier Nintendo 3DS o 2DS mediante NtrBootHax y todo con una simple SD/MicroSD
@@ -20,21 +20,21 @@ Incluso puede usarse cómo actualizador propio de la raíz de tu SD, ya que inco
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 
-[UNBRICKED]
+[UNBRICKED]</b>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">Un script que desbrickea prácticamente cualquier Nintendo 3DS que haya sido brickeada por software, es decir, brick de otp, downgrade, pantalla azúl,... siempre que no haya sido brickeada por hardware (sleep mode en 2.1 MCU)
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div></div>
 
-[Limpiar SD]
+[Limpiar SD]</b>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">Un sencillo script que te permite brrar cualquier residuo de tu SD de antiguas instalaciones o simplemente dejar la SD en stock con las únicas carpetas que son Nintendo 3DS y DCIM
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div></div>
 
-[Modo Oculto Torneos Pokémon]
+[Modo Oculto Torneos Pokémon]</b>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">Este script fusiona Boot9Strap Hidden+Luma3DS Hidden para ocultar todo rastro de Luma3D CFW tanto en el arranque cómo en el menú HOME
